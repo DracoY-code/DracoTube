@@ -1,5 +1,10 @@
 # DracoTube
 DracoTube is a terminal application created using Google's YouTube Data API && third-party Pytube package.
+
+Things script can do if setup properly:
+* Search YouTube video
+* Open video on your browser
+* Download the video from YouTube
 >Note: You're welcome to modify and use the source code under the license agreement. Reviews are welcome.
 
 ## Setup
